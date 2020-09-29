@@ -1,0 +1,2 @@
+## Laravel ORM 查询便捷trait工具库
+##### 本库提供json查询/lbs便捷查询服务/Model访问属性命名控制/sort by field 指定顺序查询/时间比较查询
