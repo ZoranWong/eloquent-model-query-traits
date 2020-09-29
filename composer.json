@@ -1,0 +1,23 @@
+{
+    "name": "zoran-wong/eloquent-model-query-traits",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ZoranWong",
+            "email": "904110231@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "ZoranWong\\EloquentModelQueryTrait\\": "src/"
+        },
+        "files": [
+            "src/functions.php"
+        ]
+    },
+    "require-dev": {
+        "grimzy/laravel-mysql-spatial": "^4.0"
+    }
+}
